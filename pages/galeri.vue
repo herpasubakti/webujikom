@@ -1,11 +1,10 @@
 <template>
-  <!-- Gallery -->
   <div class="row">
     <h1 class="text-center">Galeri</h1>
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
       <img src="assets/expo.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
 
-      <img src="assets/jumat.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Wintry Mountain Landscape" />
+      <img src="assets/pengajian.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Wintry Mountain Landscape" />
     </div>
 
     <div class="col-lg-4 mb-4 mb-lg-0">

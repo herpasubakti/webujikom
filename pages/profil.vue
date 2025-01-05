@@ -19,13 +19,13 @@
     <div>
         <h1 class="text-center">Misi</h1>
         <p>
-            <ol>
+            <ul>
             <li>Meningkatkan kualitas pendidikan dan pembelajaran.</li>
             <li>Meningkatkan kualitas sumber daya manusia.</li>
             <li>Meningkatkan kualitas sarana dan prasarana.</li>
             <li>Meningkatkan kualitas manajemen sekolah.</li>
             <li>Meningkatkan kualitas pelayanan sekolah.</li>
-            </ol>
+            </ul>
         </p>
     </div>
   </div>

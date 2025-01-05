@@ -3,4 +3,5 @@
     <Header />
   </div>
   <slot />
+  <Footer />
 </template>
